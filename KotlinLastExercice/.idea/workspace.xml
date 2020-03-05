@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2daa0d0f-8c72-4c03-a2d3-72ea58e5bd5b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YIjMzOQz5iA3UmZHT02Bs8lfQU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/HappyGarden/happygarden-angular" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinLastExercice" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2daa0d0f-8c72-4c03-a2d3-72ea58e5bd5b" name="Default Changelist" comment="" />
+      <created>1582636958285</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582636958285</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Project_Structure" timestamp="1582636976006">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1582636976006" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1583136667372">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583136667372" />
+    <state width="1899" height="286" key="GridCell.Tab.0.bottom" timestamp="1582648161924">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="286" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582648161924" />
+    <state width="1899" height="286" key="GridCell.Tab.0.center" timestamp="1582648161924">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="286" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582648161924" />
+    <state width="1899" height="286" key="GridCell.Tab.0.left" timestamp="1582648161924">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="286" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582648161924" />
+    <state width="1899" height="286" key="GridCell.Tab.0.right" timestamp="1582648161924">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="286" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582648161924" />
+    <state x="592" y="65" width="736" height="909" key="find.popup" timestamp="1582641220330">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="592" y="65" width="736" height="909" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1582641220330" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1582638357323">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1582638357323" />
+  </component>
+</project>
